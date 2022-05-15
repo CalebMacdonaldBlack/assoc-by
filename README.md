@@ -1,4 +1,4 @@
-# associate-by
+# assoc-by
 Returns a map of the elements of _coll_ keyed by the result of _f_ on each element. The value at each key will be the value of the corresponding elements. If two elements have the same key, the last is added to the map.
 
 ```clojure
